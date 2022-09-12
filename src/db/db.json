@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Make form validation",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, voluptatum.",
+      "status": "todo",
+      "priority": [1]
+    },
+    {
+      "id": 2,
+      "title": "Optimisation of project B",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+      "status": "done",
+      "priority": [1,2,3]
+    },
+    {
+      "id": 3,
+      "title": "Fixing bugs",
+      "description": "Lorem ipsum dolor sit amet, consectetur.",
+      "status": "doing",
+      "priority": [1,2]
+    },
+    {
+      "id": 4,
+      "title": "Photo cuter",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "status": "todo",
+      "priority": [1,2]
+    },
+    {
+      "id": 5,
+      "title": "Redesign About page",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolores hic laborum numquam saepe unde?",
+      "status": "done",
+      "priority": [1,2,3]
+    }
+  ]
+}
